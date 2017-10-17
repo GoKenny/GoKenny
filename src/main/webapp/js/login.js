@@ -81,8 +81,8 @@ $(document).ready(function(){
 		$("#loginText").css("color", "grey");
 		$("#loginText").css("border-bottom-color", "grey");
 		
-		$("#aboutText").css("color", "white");
-		$("#aboutText").css("border-bottom-color", "white");
+		$("#aboutText").css("color", "black");
+		$("#aboutText").css("border-bottom-color", "black");
 		
         // 3. Scroll to the section
         $('html, body').animate({
@@ -153,8 +153,8 @@ $(document).ready(function(){
 		$("#aboutText").css("color", "grey");
 		$("#aboutText").css("border-bottom-color", "silver");
 		
-		$(this).css("color", "white");
-		$(this).css("border-bottom-color", "white");
+		$(this).css("color", "black");
+		$(this).css("border-bottom-color", "black");
 		
 		// 3. Scroll To The Section
 		$('html, body').animate({

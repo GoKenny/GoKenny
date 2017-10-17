@@ -78,7 +78,7 @@
 						Compatible with <img  src="images/logo/android.png" width="30" height="30" >  and <img  src="images/logo/apple.png" width="30" height="30" style="margin-left: -2px" > 
 					</div>
 					
-					<div id="featureContainer">
+					<div id="featureContainer" style="display: none;">
 						<ul id="featureListings" >
 							<li>Organize personal <strong style="font-size: 1.2em; color: #DEB887;">spending </strong> and <strong style="font-size: 1.2em; color: #DEB887;">schedule</strong></li>
 							<li>Collect technical references</li>
@@ -94,7 +94,7 @@
 			<div id="InputRight" >
 				<div id="loadingGif" >  </div>
 				<form id="theLoginForm" >
-					<div class="demoAccount" style="display: ;" >
+					<div class="demoAccount" style="display: none;" >
 						Beta account:  	<span style="color: orange;" >beta</span>, 
 						password:		<span style="color: orange;" >beta</span>
 					</div>			
